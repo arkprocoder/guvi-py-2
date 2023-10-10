@@ -1,0 +1,5 @@
+employeeName=input("Enter the Employee Name:\n")
+employeeAge=input("Enter the Employee Age:\n")
+employeeSalary=input("Enter the Employee Salary:\n")
+workstatus=input("Are you working from office:\n")
+print(f"Employee Name is {employeeName}\nEmployee Age  is {employeeAge}\nEmployee Salary is {employeeSalary}\nWorking from office {workstatus}\n\nThank You..........")
