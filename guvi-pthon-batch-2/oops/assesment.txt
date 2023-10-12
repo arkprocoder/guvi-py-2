@@ -1,0 +1,12 @@
+Create a Class for a  BankAccount
+
+account_number 
+account_holder_name 
+accountopendate
+city
+branch
+phonenumber
+
+
+create a methods
+to print the account details
